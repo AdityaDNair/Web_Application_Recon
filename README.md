@@ -82,10 +82,10 @@ Filtered ports reduce exposure and limit information disclosure during reconnais
 ![Service Detection]()
 
 ## HTTP Header Enumeration
-![HTTP Headers]()
+![HTTP Headers](https://github.com/AdityaDNair/Web_Application_Recon/blob/main/http-enumeration.png?raw=true)
 
 ## HTTP Enumeration
-![HTTP Enumeration]()
+![HTTP Enumeration](https://github.com/AdityaDNair/Web_Application_Recon/blob/main/http-enumeration.png?raw=true)
 
 ---
 
