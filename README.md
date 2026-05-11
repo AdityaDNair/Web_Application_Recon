@@ -79,7 +79,7 @@ Filtered ports reduce exposure and limit information disclosure during reconnais
 # Screenshots
 
 ## Service Detection
-![Service Detection]()
+![Service Detection](https://github.com/AdityaDNair/Web_Application_Recon/blob/main/service-scan2.png?raw=true)
 
 ## HTTP Header Enumeration
 ![HTTP Headers](https://github.com/AdityaDNair/Web_Application_Recon/blob/main/http-enumeration.png?raw=true)
